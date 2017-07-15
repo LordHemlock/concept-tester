@@ -1,0 +1,26 @@
+{
+  "name": "concept-tester",
+  "version": "1.0.0",
+  "description": "This is a testig ground for proof of concepts and for me to learn coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordHemlock/concept-tester.git"
+  },
+  "keywords": [
+    "learning",
+    "testing"
+  ],
+  "author": "LordHemlock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordHemlock/concept-tester/issues"
+  },
+  "homepage": "https://github.com/LordHemlock/concept-tester#readme",
+  "devDependencies": {
+    "webpack": "^3.2.0"
+  }
+}
